@@ -37,7 +37,7 @@ syntax arithAcc " ΙΣΗΝ " "ΕΙΝΑΙ " arithDat : accInf
 
 /-- Gender of an accusative description, read off its leading article. -/
 private def accGender (stx : Syntax) : Char :=
-  let tok := stx[0].getAtomVal.trim
+  let tok := stx[0].getAtomVal.trimAscii
   if tok == "ΤΗΝ" then 'f' else if tok == "ΤΟ" then 'n' else 'm'
 
 /-- Expand to `lhs = rhs` plus (subject gender, adjective gender). -/

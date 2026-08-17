@@ -4,3 +4,6 @@ defaultTargets = ["Oed"]
 
 [[lean_lib]]
 name = "Oed"
+
+[[lean_lib]]
+name = "Levels"
