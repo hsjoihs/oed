@@ -1,0 +1,6 @@
+name = "oed"
+version = "0.1.0"
+defaultTargets = ["Oed"]
+
+[[lean_lib]]
+name = "Oed"
