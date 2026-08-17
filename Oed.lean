@@ -1,3 +1,3 @@
--- This module serves as the root of the `Oed` library.
--- Import modules here that should be built as part of the library.
-import Oed.Basic
+-- ΟΕΔ: a proof assistant speaking Euclid's Greek, as a thin wrapper over Lean.
+import Oed.Arithmos
+import Oed.Horos
