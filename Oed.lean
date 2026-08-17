@@ -4,3 +4,4 @@ import Oed.Horos
 import Oed.Grammar
 import Oed.Display
 import Oed.Moves
+import Oed.Protasis
