@@ -45,9 +45,9 @@ import Oed
 
 ## main obstacle
 
-Lean forbids [using Σ and Π in an identifier](https://github.com/leanprover/lean4/blob/fd0efc4306a7773c2cd4e079ddaa907426d0f5da/src/Init/Meta/Defs.lean#L101-L103); this is circumvented by 
+Lean forbids [using Σ and Π in an identifier](https://github.com/leanprover/lean4/blob/fd0efc4306a7773c2cd4e079ddaa907426d0f5da/src/Init/Meta/Defs.lean#L101-L103); this is circumvented by employing some escape hatches. 
 
-![](fable-screenshot/2026-08-18--11.34.11.png)
+![](fable-screenshots/2026-08-18--11.34.11.png)
 
-![](fable-screenshot/2026-08-18--2.41.04.png)
+![](fable-screenshots/2026-08-18--2.41.04.png)
 
