@@ -2,7 +2,7 @@
 
 Doing the first few stages of Lean's [Natural Number Games](https://adam.math.hhu.de/#/g/leanprover-community/nng4) in Ancient Greek.
 
-Euclid is furious that theorem provers only understands barbaric speech, and demanded that I order my servant (Fable 5) so that Lean understands Ancient Greek.
+Euclid is furious that theorem provers only understand barbaric speech, and demanded that I order my servant (Fable 5) so that Lean understands Ancient Greek.
 
 ![](dialogue-with-euclid/5.png)
 
